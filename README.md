@@ -1,2 +1,2 @@
 # odin-recipies
-quick recipie. website 
+quick recipie website 
